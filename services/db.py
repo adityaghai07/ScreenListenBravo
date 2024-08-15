@@ -104,7 +104,7 @@ def print_table(db_params, table_name):
     # insert_into_table('company', columns, values)
 
 
-    # print_table(DATABASE_URL, 'company')
+ 
 
 
 
