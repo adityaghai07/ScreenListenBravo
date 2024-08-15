@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "screenlistenbravo"
+version = "0.1.0"
+description = "Screening project for Listen Bravo"
+authors = ["Aditya Ghai <adityaghailbdrp1@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.112.0"
+uvicorn = "^0.30.6"
+pandas = "^2.2.2"
+psycopg2 = "^2.9.9"
+openai = "^1.40.6"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
