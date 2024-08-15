@@ -31,17 +31,6 @@ This project is a simple FastAPI backend that processes a user-uploaded CSV file
 
 ## Installation and Setup
 
-Follow these steps to set up and run the project:
-
-### Prerequisites
-
-- **Python 3.9+**
-- **Poetry** (for dependency management)
-- **Docker** (for containerization, optional)
-
-
-## Installation and Setup
-
 
 ### Prerequisites
 
