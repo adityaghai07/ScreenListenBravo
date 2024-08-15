@@ -62,6 +62,8 @@ poetry install
 ```
 
 
+#### Before running the application , make sure to run the db.py file and create the table in the cloud.
+
 
 Run the Application
 
