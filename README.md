@@ -1,6 +1,6 @@
 # FastAPI CSV Company Classifier
 
-This project is a simple FastAPI backend that processes a user-uploaded CSV file containing company records. It uses a Language Learning Model (LLM) API to classify companies as technology companies based on their descriptions and stores the results in a relational database.
+This project is a simple FastAPI backend that processes a user-uploaded CSV file containing company records. It uses a OpenAI /Language Learning Model (LLM) API to classify companies as technology companies based on their descriptions and stores the results in a relational database.
 
 ## Features
 
