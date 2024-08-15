@@ -39,29 +39,13 @@ Follow these steps to set up and run the project:
 - **Poetry** (for dependency management)
 - **Docker** (for containerization, optional)
 
-### 1. Clone the Repository
 
-First, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/fastapi-csv-classifier.git
-cd fastapi-csv-classifier
-
-```
-
-
-Here’s the Markdown code for the Installation and Setup section:
-
-markdown
-Copy code
 ## Installation and Setup
 
-Follow these steps to set up and run the project:
 
 ### Prerequisites
 
 - **Python 3.9+**
-- **Poetry** (for dependency management)
 - **Docker** (for containerization, optional)
 
 ### Clone the Repository
@@ -69,8 +53,8 @@ Follow these steps to set up and run the project:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/fastapi-csv-classifier.git
-cd fastapi-csv-classifier
+git clone https://github.com/adityaghai07/ScreenListenBravo
+cd ScreenListenBravo
 ```
 
 Set Up Environment Variables
